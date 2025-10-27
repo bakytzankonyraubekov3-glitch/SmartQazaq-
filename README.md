@@ -1,1 +1,1 @@
-# SmartQazaq-
+index.html
